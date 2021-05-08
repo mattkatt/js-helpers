@@ -1,6 +1,6 @@
 {
     "name": "@mattkatt/js-helpers",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A collection of helper functions for JavaScript",
     "main": "build/index.js",
     "scripts": {
