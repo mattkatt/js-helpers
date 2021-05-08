@@ -3,3 +3,4 @@
 
 npx prettier --write ./src
 npm run build
+git add build
