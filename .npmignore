@@ -1,4 +1,5 @@
 .husky
 src
+.editorconfig
 .prettier.json
 tsconfig.json
