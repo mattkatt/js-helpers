@@ -4,10 +4,12 @@
   "description": "A collection of helper functions for JavaScript",
   "main": "build/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepare": "husky install",
+    "build": ""
   },
   "author": "Matt Evans <m4ttk4tt@hotmail.co.uk> (https://github.com/mattkatt)",
   "devDependencies": {
+    "husky": "^6.0.0",
     "prettier": "^2.2.1",
     "typescript": "^4.2.4"
   }
