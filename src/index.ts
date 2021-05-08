@@ -5,3 +5,8 @@ export default {
     capitalize,
     toReadable,
 }
+
+export const stringHelpers = {
+    capitalize,
+    toReadable,
+}

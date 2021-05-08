@@ -3,3 +3,7 @@ declare const _default: {
     toReadable: (str: string) => string;
 };
 export default _default;
+export declare const stringHelpers: {
+    capitalize: (str: string) => string;
+    toReadable: (str: string) => string;
+};
