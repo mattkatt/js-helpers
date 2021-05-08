@@ -5,7 +5,7 @@
     "main": "build/index.js",
     "scripts": {
         "prepare": "husky install",
-        "build": ""
+        "build": "tsc"
     },
     "author": "Matt Evans <m4ttk4tt@hotmail.co.uk> (https://github.com/mattkatt)",
     "devDependencies": {
